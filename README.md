@@ -87,7 +87,7 @@ make
 
 以下の構成で動作確認ができます。
 
-![ブレッドボード実装例](.img/breadboard.jpg)
+![ブレッドボード実装例](.img/breadboard.png)
 
 ![等価回路](.img/circuit.png)
 
